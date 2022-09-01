@@ -8,6 +8,29 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [6.10.2]
+### Changed
+- Added KingsFall and Plunder weapon rolls.
+
+## [6.10.1]
+### Changed
+- Fixed an issue where weapons with multiple rolls would have multiple options in autocomplete.
+
+## [6.10.0]
+### Added
+- King's Fall loot table (missing weapons due to classified items)
+- New command: `/roll-finder` uses curated weapon rolls to provide recommended rolls for PvE/PvP
+
+## [6.9.0]
+### Added
+- New craftable weapons.
+- Preparations for upcoming release.
+
+### Changed
+- Fixed Saint14's inventory change due to new season.
+- Updated dependencies.
+- Fix `/memento` command relying on the source parameter.
+
 ## [6.8.1]
 ### Changed
 - Bug fixes.
